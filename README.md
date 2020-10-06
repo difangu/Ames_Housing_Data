@@ -4,9 +4,9 @@ In this project, I use R and Rstudio to predict the price of Ames houses using L
 
 Ames_data.csv, from the Resouces page. The dataset has 2930 rows (i.e., houses) and 83 columns.
 
-• The first column is “PID”, the Parcel identification number;
-• The last column is the response variable, Sale_Price;
-• The remaining 81 columns are explanatory variables describing (almost) every aspect of residential homes.
+* The first column is “PID”, the Parcel identification number;
+* The last column is the response variable, Sale_Price;
+* The remaining 81 columns are explanatory variables describing (almost) every aspect of residential homes.
 
 ## Preprocessing
 
