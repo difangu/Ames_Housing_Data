@@ -10,7 +10,7 @@ Ames_data.csv, from the Resouces page. The dataset has 2930 rows (i.e., houses) 
 
 ## Preprocessing
 
-• Winsorization
-• Vairable Removal
-• One-Hot Encoding
-• Missing Value
+* Winsorization
+* Vairable Removal
+* One-Hot Encoding
+* Missing Value
